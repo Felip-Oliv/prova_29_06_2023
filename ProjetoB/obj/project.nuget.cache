@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDBwSjpWjeONrIJ9c8/dCdkPTZPxYdrAzZWuDEL5/KmFU33MRHJ7i+JKu5izHaPSkuG/QGycuiymLc8Mc1a4Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felipe Oliveira\\Desktop\\Universidade\\Quinta-noite\\prova_29_06_2023\\ProjetoB\\ProjetoB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.3\\microsoft.aspnetcore.components.7.0.3.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.3\\microsoft.aspnetcore.components.analyzers.7.0.3.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.3\\microsoft.aspnetcore.components.forms.7.0.3.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.3\\microsoft.aspnetcore.components.web.7.0.3.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.3\\microsoft.aspnetcore.metadata.7.0.3.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\microsoft.jsinterop\\7.0.3\\microsoft.jsinterop.7.0.3.nupkg.sha512",
+    "C:\\Users\\Felipe Oliveira\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
